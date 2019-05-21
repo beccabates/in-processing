@@ -1,0 +1,32 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
+  margin: 2em;
+}
+
+h1 {
+  color: #373fff;
+  
+}
+p {
+  font-family: arial
+}
+table {
+  border-collapse: collapse;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+th {
+  height: 25px;
+
+}
+
+th, td {
+  padding: 8px;
+  text-align: center
+}
+tr:nth-child(even) {background-color: #f2f2f2;}

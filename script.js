@@ -1,4 +1,5 @@
-fill(255, 255, 0);
-ellipse(202, 208, 300, 300);
+/* If you're feeling fancy you can add interactivity 
+    to your site with Javascript */
 
-ellipse(150, 150, 150, 150,);
+// prints "hi" in the browser's dev tools console
+console.log('hi');
